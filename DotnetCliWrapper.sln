@@ -1,0 +1,57 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "misc", "misc", "{23506EB8-1B27-4FD0-B570-2F5EF2C33034}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+		src\Directory.Build.props = src\Directory.Build.props
+		src\Directory.Packages.props = src\Directory.Packages.props
+		.github\workflows\dotnet.yml = .github\workflows\dotnet.yml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "libs", "libs", "{EB6F52EE-7E7E-4624-A99E-79D3F190F386}"
+	ProjectSection(SolutionItems) = preProject
+		src\libs\Directory.Build.props = src\libs\Directory.Build.props
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{FDEE2E22-C239-4921-83B2-9797F765FD6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCliWrapper.Parsers.Build", "src\libs\DotnetCliWrapper.Parsers.Build\DotnetCliWrapper.Parsers.Build.csproj", "{119456B1-6E68-4C56-AF16-72D1F8EEF807}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCliWrapper.Parsers.Test", "src\libs\DotnetCliWrapper.Parsers.Test\DotnetCliWrapper.Parsers.Test.csproj", "{D0C23962-5998-4220-8B9E-30838D94945F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCliWrapper", "src\libs\DotnetCliWrapper\DotnetCliWrapper.csproj", "{7E66F43E-A311-4843-99B1-E4041E59A9EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetCliWrapper.UnitTests", "src\tests\DotnetCliWrapper.UnitTests\DotnetCliWrapper.UnitTests.csproj", "{D8D1CF09-2E98-40CC-A6D8-A60F1C408E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{119456B1-6E68-4C56-AF16-72D1F8EEF807}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119456B1-6E68-4C56-AF16-72D1F8EEF807}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119456B1-6E68-4C56-AF16-72D1F8EEF807}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119456B1-6E68-4C56-AF16-72D1F8EEF807}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0C23962-5998-4220-8B9E-30838D94945F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0C23962-5998-4220-8B9E-30838D94945F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0C23962-5998-4220-8B9E-30838D94945F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0C23962-5998-4220-8B9E-30838D94945F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E66F43E-A311-4843-99B1-E4041E59A9EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E66F43E-A311-4843-99B1-E4041E59A9EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E66F43E-A311-4843-99B1-E4041E59A9EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E66F43E-A311-4843-99B1-E4041E59A9EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8D1CF09-2E98-40CC-A6D8-A60F1C408E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8D1CF09-2E98-40CC-A6D8-A60F1C408E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8D1CF09-2E98-40CC-A6D8-A60F1C408E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8D1CF09-2E98-40CC-A6D8-A60F1C408E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{119456B1-6E68-4C56-AF16-72D1F8EEF807} = {EB6F52EE-7E7E-4624-A99E-79D3F190F386}
+		{D0C23962-5998-4220-8B9E-30838D94945F} = {EB6F52EE-7E7E-4624-A99E-79D3F190F386}
+		{7E66F43E-A311-4843-99B1-E4041E59A9EA} = {EB6F52EE-7E7E-4624-A99E-79D3F190F386}
+		{D8D1CF09-2E98-40CC-A6D8-A60F1C408E70} = {FDEE2E22-C239-4921-83B2-9797F765FD6A}
+	EndGlobalSection
+EndGlobal

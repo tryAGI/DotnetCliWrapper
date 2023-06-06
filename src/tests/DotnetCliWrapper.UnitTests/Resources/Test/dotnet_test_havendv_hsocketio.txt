@@ -1,0 +1,160 @@
+  Determining projects to restore...
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj (in 148 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj (in 149 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj (in 149 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/H.WebSockets.IntegrationTests.csproj (in 217 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.UnitTests/H.Engine.IO.UnitTests.csproj (in 218 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.UnitTests/H.Socket.IO.UnitTests.csproj (in 218 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.IntegrationTests/H.Socket.IO.IntegrationTests.csproj (in 218 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.IntegrationTests/H.Engine.IO.IntegrationTests.csproj (in 218 ms).
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/H.WebSockets.csproj::TargetFramework=netstandard2.1]
+  H.WebSockets -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/bin/Debug/netstandard2.0/H.WebSockets.dll
+  H.WebSockets -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/bin/Debug/net4.5.1/H.WebSockets.dll
+  H.WebSockets -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.WebSockets/bin/Debug/netstandard2.1/H.WebSockets.dll
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=netstandard2.0]
+  H.Engine.IO -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/bin/Debug/net4.5.1/H.Engine.IO.dll
+  H.WebSockets.IntegrationTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/bin/Debug/net4.8/H.WebSockets.IntegrationTests.dll
+  H.Engine.IO -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/bin/Debug/netstandard2.0/H.Engine.IO.dll
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/H.Engine.IO.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.0]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.0]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(470,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.0]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(474,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.0]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(478,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.0]
+  H.Socket.IO -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/bin/Debug/netstandard2.0/H.Socket.IO.dll
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=net4.5.1]
+  H.Engine.IO -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Engine.IO/bin/Debug/netstandard2.1/H.Engine.IO.dll
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=net4.5.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(25,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.build.tasks.git/1.1.1/build/Microsoft.Build.Tasks.Git.targets(48,5): warning : Unable to locate repository with working directory that contains directory '/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO'. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.1]
+/Users/havendv/.nuget/packages/microsoft.sourcelink.common/1.1.1/build/Microsoft.SourceLink.Common.targets(53,5): warning : Source control information is not available - the generated source link is empty. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.1]
+  H.Engine.IO.UnitTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.UnitTests/bin/Debug/net4.8/H.Engine.IO.UnitTests.dll
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(470,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=net4.5.1]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(474,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=net4.5.1]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(478,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=net4.5.1]
+  H.Socket.IO -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/bin/Debug/net4.5.1/H.Socket.IO.dll
+  H.Engine.IO.IntegrationTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.IntegrationTests/bin/Debug/net6.0/H.Engine.IO.IntegrationTests.dll
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(470,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.1]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(474,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.1]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/SocketIoClient.cs(478,13): warning CA1853: Do not guard 'Dictionary.Remove(key)' with 'Dictionary.ContainsKey(key)' [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/H.Socket.IO.csproj::TargetFramework=netstandard2.1]
+  H.WebSockets.IntegrationTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/bin/Debug/net6.0/H.WebSockets.IntegrationTests.dll
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/bin/Debug/net6.0/H.WebSockets.IntegrationTests.dll (.NETCoreApp,Version=v6.0)
+  H.Socket.IO -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/libs/H.Socket.IO/bin/Debug/netstandard2.1/H.Socket.IO.dll
+  H.Engine.IO.UnitTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.UnitTests/bin/Debug/net6.0/H.Engine.IO.UnitTests.dll
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+  H.Engine.IO.IntegrationTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.IntegrationTests/bin/Debug/net4.8/H.Engine.IO.IntegrationTests.dll
+  H.Socket.IO.IntegrationTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.IntegrationTests/bin/Debug/net4.8/H.Socket.IO.IntegrationTests.dll
+  H.Socket.IO.UnitTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.UnitTests/bin/Debug/net4.8/H.Socket.IO.UnitTests.dll
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.UnitTests/bin/Debug/net6.0/H.Engine.IO.UnitTests.dll (.NETCoreApp,Version=v6.0)
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.IntegrationTests/bin/Debug/net6.0/H.Engine.IO.IntegrationTests.dll (.NETCoreApp,Version=v6.0)
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+  H.Socket.IO.UnitTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.UnitTests/bin/Debug/net6.0/H.Socket.IO.UnitTests.dll
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.UnitTests/bin/Debug/net6.0/H.Socket.IO.UnitTests.dll (.NETCoreApp,Version=v6.0)
+  H.Socket.IO.IntegrationTests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.IntegrationTests/bin/Debug/net6.0/H.Socket.IO.IntegrationTests.dll
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.IntegrationTests/bin/Debug/net6.0/H.Socket.IO.IntegrationTests.dll (.NETCoreApp,Version=v6.0)
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+
+Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 22 ms - H.Engine.IO.UnitTests.dll (net6.0)
+
+Passed!  - Failed:     0, Passed:     3, Skipped:     0, Total:     3, Duration: 42 ms - H.Socket.IO.UnitTests.dll (net6.0)
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.UnitTests/bin/Debug/net4.8/H.Socket.IO.UnitTests.dll (.NETFramework,Version=v4.8)
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.UnitTests/bin/Debug/net4.8/H.Engine.IO.UnitTests.dll (.NETFramework,Version=v4.8)
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+A total of 1 test files matched the specified pattern.
+No test is available in /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/bin/Debug/net6.0/H.WebSockets.IntegrationTests.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+
+Additionally, path to test adapters can be specified using /TestAdapterPath command. Example  /TestAdapterPath:<pathToCustomAdapters>.
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/bin/Debug/net4.8/H.WebSockets.IntegrationTests.dll (.NETFramework,Version=v4.8)
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+  Skipped ConnectToLocalChatServerTest [12 ms]
+  Skipped ConnectToLocalChatServerNamespaceTest1 [< 1 ms]
+  Skipped ConnectToLocalChatServerNamespaceTest2 [< 1 ms]
+  Skipped RoomsTest [< 1 ms]
+  Skipped ArraysTest [< 1 ms]
+  Skipped ConnectToLocalChatServerDebugTest [< 1 ms]
+  Skipped ConnectToLocalChatServerTest [10 ms]
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     1, Total:     2, Duration: 2 s - H.Engine.IO.IntegrationTests.dll (net6.0)
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     6, Total:     7, Duration: 3 s - H.Socket.IO.IntegrationTests.dll (net6.0)
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Socket.IO.IntegrationTests/bin/Debug/net4.8/H.Socket.IO.IntegrationTests.dll (.NETFramework,Version=v4.8)
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+No test is available in /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.WebSockets.IntegrationTests/bin/Debug/net4.8/H.WebSockets.IntegrationTests.dll. Make sure that test discoverer & executors are registered and platform & framework version settings are appropriate and try again.
+
+Additionally, path to test adapters can be specified using /TestAdapterPath command. Example  /TestAdapterPath:<pathToCustomAdapters>.
+
+Passed!  - Failed:     0, Passed:     2, Skipped:     0, Total:     2, Duration: 951 ms - H.Engine.IO.UnitTests.dll (net48)
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/bzrefzft.hyg/src/tests/H.Engine.IO.IntegrationTests/bin/Debug/net4.8/H.Engine.IO.IntegrationTests.dll (.NETFramework,Version=v4.8)
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+
+Passed!  - Failed:     0, Passed:     3, Skipped:     0, Total:     3, Duration: 1 s - H.Socket.IO.UnitTests.dll (net48)
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+  Skipped ConnectToLocalChatServerTest [112 ms]
+  Skipped ConnectToLocalChatServerNamespaceTest1 [4 ms]
+  Skipped ConnectToLocalChatServerNamespaceTest2 [1 ms]
+  Skipped RoomsTest [1 ms]
+  Skipped ArraysTest [1 ms]
+  Skipped ConnectToLocalChatServerDebugTest [1 ms]
+  Skipped ConnectToLocalChatServerTest [101 ms]
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     6, Total:     7, Duration: 5 s - H.Socket.IO.IntegrationTests.dll (net48)
+
+Passed!  - Failed:     0, Passed:     1, Skipped:     1, Total:     2, Duration: 4 s - H.Engine.IO.IntegrationTests.dll (net48)

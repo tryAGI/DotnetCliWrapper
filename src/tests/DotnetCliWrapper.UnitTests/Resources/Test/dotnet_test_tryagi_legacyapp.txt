@@ -1,0 +1,45 @@
+  Determining projects to restore...
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/LegacyApp.csproj (in 133 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp.Consumer/LegacyApp.Consumer.csproj (in 133 ms).
+  Restored /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp.Tests/LegacyApp.Tests.csproj (in 221 ms).
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/User.cs(9,23): warning CS8618: Non-nullable property 'Firstname' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/LegacyApp.csproj]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/User.cs(11,23): warning CS8618: Non-nullable property 'Surname' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/LegacyApp.csproj]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/User.cs(15,23): warning CS8618: Non-nullable property 'EmailAddress' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/LegacyApp.csproj]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/User.cs(21,23): warning CS8618: Non-nullable property 'Client' must contain a non-null value when exiting constructor. Consider declaring the property as nullable. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/LegacyApp.csproj]
+/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/UserService.cs(34,26): warning CS8601: Possible null reference assignment. [/private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/LegacyApp.csproj]
+  LegacyApp -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp/bin/Debug/net6.0/LegacyApp.dll
+  LegacyApp.Tests -> /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp.Tests/bin/Debug/net6.0/LegacyApp.Tests.dll
+Test run for /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp.Tests/bin/Debug/net6.0/LegacyApp.Tests.dll (.NETCoreApp,Version=v6.0)
+Microsoft (R) Test Execution Command Line Tool Version 17.5.0 (arm64)
+Copyright (c) Microsoft Corporation.  All rights reserved.
+
+Starting test execution, please wait...
+A total of 1 test files matched the specified pattern.
+  Failed TestMethod1 [80 ms]
+  Error Message:
+   Expected boolean to be false, but found True.
+  Stack Trace:
+     at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)
+   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)
+   at FluentAssertions.Primitives.BooleanAssertions`1.BeFalse(String because, Object[] becauseArgs)
+   at LegacyApp.Tests.ExampleTests.TestMethod1() in /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp.Tests/ExampleTests.cs:line 20
+
+  Failed TestMethod2 [< 1 ms]
+  Error Message:
+   Expected boolean to be true, but found False.
+  Stack Trace:
+     at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.TestFrameworkProvider.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)
+   at FluentAssertions.Execution.AssertionScope.FailWith(Func`1 failReasonFunc)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String message, Object[] args)
+   at FluentAssertions.Primitives.BooleanAssertions`1.BeTrue(String because, Object[] becauseArgs)
+   at LegacyApp.Tests.ExampleTests.TestMethod2() in /private/var/folders/y7/lyw5pfm97_jgnm6nyfgmx4b80000gn/T/Joi/l5eserre.dth/LegacyApp.Tests/ExampleTests.cs:line 34
+
+
+Failed!  - Failed:     2, Passed:     0, Skipped:     0, Total:     2, Duration: 94 ms - LegacyApp.Tests.dll (net6.0)
