@@ -6,8 +6,8 @@
     </PropertyGroup>
 
     <PropertyGroup Label="NuGet">
-        <Description>Allows you to parse dotnet build cli output.</Description>
-        <PackageTags>cli;dotnet;wrapper;parser;build</PackageTags>
+        <Description>Allows you to parse dotnet test cli output.</Description>
+        <PackageTags>cli;dotnet;wrapper;parser;test</PackageTags>
     </PropertyGroup>
 
     <ItemGroup Label="Usings">
