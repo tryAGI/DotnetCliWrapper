@@ -20,7 +20,7 @@ public static class Dotnet
         CancellationToken cancellationToken = default)
     {
         var result = await Cli.Wrap("dotnet")
-            .WithArguments(new[] {"build"})
+            .WithArguments(["build"])
             .WithWorkingDirectory(workingDirectory)
             .WithValidation(CommandResultValidation.None)
             .ExecuteBufferedAsync(cancellationToken);
@@ -38,7 +38,7 @@ public static class Dotnet
         CancellationToken cancellationToken = default)
     {
         var result = await Cli.Wrap("dotnet")
-            .WithArguments(new[] {"test"})
+            .WithArguments(["test"])
             .WithWorkingDirectory(workingDirectory)
             .WithValidation(CommandResultValidation.None)
             .ExecuteBufferedAsync(cancellationToken);
