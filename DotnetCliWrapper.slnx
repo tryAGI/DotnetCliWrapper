@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/libs/">
+    <File Path="src/libs/Directory.Build.props" />
+    <Project Path="src/libs/DotnetCliWrapper.Parsers.Build/DotnetCliWrapper.Parsers.Build.csproj" />
+    <Project Path="src/libs/DotnetCliWrapper.Parsers.Test/DotnetCliWrapper.Parsers.Test.csproj" />
+    <Project Path="src/libs/DotnetCliWrapper/DotnetCliWrapper.csproj" />
+  </Folder>
+  <Folder Name="/misc/">
+    <File Path=".github/dependabot.yml" />
+    <File Path=".github/workflows/dotnet.yml" />
+    <File Path=".github/workflows/pull-request.yml" />
+    <File Path=".gitignore" />
+    <File Path="LICENSE" />
+    <File Path="README.md" />
+    <File Path="src/Directory.Build.props" />
+    <File Path="src/Directory.Packages.props" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="src/tests/DotnetCliWrapper.UnitTests/DotnetCliWrapper.UnitTests.csproj" />
+  </Folder>
+</Solution>
