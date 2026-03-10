@@ -10,16 +10,16 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ```bash
 # Build the solution
-dotnet build DotnetCliWrapper.sln
+dotnet build DotnetCliWrapper.slnx
 
 # Build for release
-dotnet build DotnetCliWrapper.sln -c Release
+dotnet build DotnetCliWrapper.slnx -c Release
 
 # Run unit tests
 dotnet test src/tests/DotnetCliWrapper.UnitTests/DotnetCliWrapper.UnitTests.csproj
 
 # Run all tests
-dotnet test DotnetCliWrapper.sln
+dotnet test DotnetCliWrapper.slnx
 ```
 
 ## Architecture
