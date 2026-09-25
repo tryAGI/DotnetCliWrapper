@@ -21,6 +21,16 @@ jobs:
     secrets:
       nuget-key: ${{ secrets.NUGET_KEY }}
   
+  auto-stable-release:
+    needs: [publish]
+    if: github.ref == 'refs/heads/main'
+    uses: tryAGI/workflows/.github/workflows/auto-stable-release.yml@main
+    with:
+      project-path: DotnetCliWrapper.slnx
+      candidate-source: build
+    secrets:
+      nuget-key: ${{ secrets.NUGET_KEY }}
+
   release:
     name: Release
     runs-on: ubuntu-latest
