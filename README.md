@@ -1,5 +1,8 @@
 # DotnetCliWrapper
 
+> **Retired:** This repository is archived and is no longer maintained. Existing
+> releases remain available, but no new releases or dependency updates are planned.
+
 [![Nuget package](https://img.shields.io/nuget/vpre/DotnetCliWrapper)](https://www.nuget.org/packages/DotnetCliWrapper/)
 [![dotnet](https://github.com/tryAGI/DotnetCliWrapper/actions/workflows/dotnet.yml/badge.svg?branch=main)](https://github.com/tryAGI/DotnetCliWrapper/actions/workflows/dotnet.yml)
 [![License: MIT](https://img.shields.io/github/license/tryAGI/DotnetCliWrapper)](https://github.com/tryAGI/DotnetCliWrapper/blob/main/LICENSE)
